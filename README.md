@@ -23,7 +23,7 @@ Making efforts trying to implement the Atomic Design System around the Frontend 
 
 ### Nº 2
 * Just include the component view in the Page.
-* Then with the help of a CLI, automatically bundle all the components .styl files, and .js files with their instance, into component.js and component.styl respectively.
+* Then with the help of a CLI, automatically bundle all the components .styl files, and .js files with their instance, into component.styl and component.js respectively.
 * And Compile.
 
 ## Complements Specs
