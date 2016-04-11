@@ -1,11 +1,11 @@
-# The Atomic Proyect
+# The Atomic Project
 Making efforts trying to implement the Atomic Design System around the Frontend Development process.
 
 ## Concept
 
 * http://atomicdesign.bradfrost.com/table-of-contents/
 
-## Proyect Specs
+## Project Specs
 
 * We need a Component System that can be handled starting from a static HTML, rather than a JS SPA Framework like others do.
 * A system based on Atomic Components (Atoms, Molecules, Organisms, Templates, Pages).
