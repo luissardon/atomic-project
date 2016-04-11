@@ -14,7 +14,7 @@ Making efforts trying to implement the Atomic Design System around the Frontend 
 * That their styles can be added through imports in stylus.
 * That their scripts can be added through imports in js(es6).
 
-## Ideas
+## Ideas to compose
 
 ### Nº 1
 * Create a page.jade, page.js(es6) and page.styl per view.
@@ -25,7 +25,7 @@ Making efforts trying to implement the Atomic Design System around the Frontend 
 * Just include the component view in the Page.
 * Then with the help of a CLI, automatically bundle all the components .styl files, and .js files with their instance, into component.js and component.styl respectively.
 * And Compile.
-* 
+
 ## Complements Specs
 * A way to manage relationship between components.
 * A way to handle actions between components https://goo.gl/KJNn2.
